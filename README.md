@@ -32,4 +32,19 @@ php artisan migrate:install
 
 php artisan migrate --seed
 
+php artisan serve
+
+
+#routes
+Base url - Registration for staffs and developers
+eg: http://127.0.0.1:8000/
+
+http://127.0.0.1:8000/admin  - admin login
+username - gipra@gmail.com
+
+password - password
+
+http://127.0.0.1:8000/staff - staff login
+
+http://127.0.0.1:8000/developers - developer login
 
